@@ -1,0 +1,28 @@
+{
+  "name": "ga-test",
+  "version": "0.0.1",
+  "description": "Testing the Google Analytics API.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLawrence/ga-test.git"
+  },
+  "author": "nathan@nathanlawrence.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanLawrence/ga-test/issues"
+  },
+  "homepage": "https://github.com/NathanLawrence/ga-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-less": "^3.0.5",
+    "gulp-shell": "^0.5.2"
+  },
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
